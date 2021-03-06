@@ -15,7 +15,7 @@ departments = ["Dairy_1", "Produce_2", "Snacks_3"]
 # We would need to pick up each item individually.
 ```
 
-![insertion1.png](attachment:ca5a1d33-b515-46b7-945e-a2986691e15c.png)
+![insertion1.png](imgs/insertion1.png)
 
 The average grocery shopper would head to the Dairy department to pick up Milk, then to the Produce department to pick up their Apples, onward to the Snacks section to pick up their Cookies, back to the Dairy department to grab their eggs, and finally circle back to the Produce section to pick up their Bananas. 
 
@@ -85,9 +85,9 @@ grocery_list = ["Milk", "Eggs", "Apples", "Bananas", "Cookies"]
 # No more swaps required, we have organized our list!
 ```
 
-![bubble_first.png](attachment:41a16bbb-55ed-4995-b7b9-c4b302ed331f.png)
+![bubble_first.png](imgs/bubble_first.png)
 
-![bubble_second.png](attachment:d8756b34-1778-4040-882d-4c42a27ef6cd.png)
+![bubble_second.png](imgs/bubble_second.png)
 
 Bubble Sort works great when we have a short list, but let’s say we’re preparing a larger feast. 
 
@@ -111,9 +111,9 @@ grocery_list = ["Milk", "Apples", "Cookies", "Eggs", "Bananas", "Chips", "Celery
 departments = ["Dairy_1", "Produce_2", "Snacks_3"]
 ```
 
-![merge_divide.png](attachment:e7150720-d4ea-4ddf-ab90-4373f4f60b88.png)
+![merge_divide.png](imgs/merge_divide.png)
 
-![merge_merge.png](attachment:4d830cdc-0856-4688-b851-fd7aa06b6d0c.png)
+![merge_merge.png](imgs/merge_merge.png)
 
 Merge Sort is definitely faster when we have a longer list of items to sort! Merge Sort actually took fewer steps than if we had sorted each item individually (Insertion Sort) or if we had compared each pair of items repeatedly (Bubble Sort). This is because when Merge Sort divides the original list into two and repeats, we can easily explore subsets of the list instead of exploring the long list all in one. Finally, merging the parts back together is simplified since the sublists are already sorted.
 
