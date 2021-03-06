@@ -119,4 +119,4 @@ We have now connected three common search algorithms computer scientists use to 
 
 Anyways, you can now maximize your sorting efficiency! It's interesting to think about all the different scenarios we can find ourselves in when we might need to sort something quickly. Playing cards and needing to sort your hand, cleaning out your closet and having to categorize your clothes, or even organizing your Spotify playlist, the sorting scenarios are endless! 
 
-Godspeed 🚀
+Godspeed 🚀 
